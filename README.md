@@ -79,7 +79,7 @@ To set up the Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load environment locally, con
 **Step 2 — Clone the repository**
 
 ```bash
-git clone https://github.com/PRITHIVSAKTHIUR/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load.git
+git clone https://github.com/tabrezahmed51/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load.git
 cd Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load
 ```
 
